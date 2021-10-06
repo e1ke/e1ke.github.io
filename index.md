@@ -9,6 +9,20 @@ Welcome, have fun exploring my portfolio.
 - #### [Thesis - Electrical Engineering and Information Technology](/education/thesis)
 #### [](/dummy)
 
+
+---
+### FRONTEND / BACKEND DEVELOPMENT
+
+- #### AckerSchlacker
+- #### Autonomous Videochat-Tablet for elderly people
+- #### Energy-Monitor
+- #### Energy-Analysis Website
+#### [](/dummy)
+#### [](/dummy)
+#### [](/dummy)
+#### [](/dummy)
+
+
 ---
 ### HOME LAB
 
@@ -56,18 +70,6 @@ Welcome, have fun exploring my portfolio.
 #### [](/dummy)
 #### [](/dummy)
 
-
----
-### FRONTEND / BACKEND DEVELOPMENT
-
-- #### AckerSchlacker
-- #### Autonomous Videochat-Tablet for elderly people
-- #### Energy-Monitor
-- #### Energy-Analysis Website
-#### [](/dummy)
-#### [](/dummy)
-#### [](/dummy)
-#### [](/dummy)
 
 ---
 ### MISC
