@@ -15,8 +15,8 @@ Welcome, have fun exploring my portfolio.
 
 - #### AckerSchlacker
 - #### Autonomous Videochat-Tablet for elderly people
-- #### Energy-Monitor
-- #### Energy-Analysis Website
+- #### [Energy-Monitor](https://energy-analysis.de/energymonitor)
+- #### [Energy-Analysis GmbH Website](https://energy-analysis.de/)
 #### [](/dummy)
 #### [](/dummy)
 #### [](/dummy)
