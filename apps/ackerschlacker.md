@@ -15,5 +15,5 @@ If you speak out loud Ackerschlagkartei very quickly in German, it sounds like A
 
 ### Screenshots
 
-![screenshots](../assets/img/ackerschlacker.png)
+[![screenshots](../assets/img/ackerschlacker.png)](../assets/img/ackerschlacker.png)
 
