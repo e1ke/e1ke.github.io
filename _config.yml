@@ -3,9 +3,9 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   This is me, Eike. Software Engineer from Germany, $currYYYY-1988 years old
   <br><br>
-  <a href="https://www.freelancermap.de/freelancer-verzeichnis/profile/entwicklung/387480-profil-eike-folkerts-software-engineer-senior-full-stack-developer-aus-norden.html"><i class="fa-solid fa-address-card"></i> Freelancermap</a> <br>
-  <a href="https://www.xing.com/profile/Eike_Folkerts2/"><i class="fa-brands fa-xing-square"></i> XING</a> <br>
-  <a href="https://www.linkedin.com/in/eike-folkerts-a93138195/"><i class="fa-brands fa-linkedin"></i> LinkedIn</a> <br>
+  <a class="fa-solid fa-address-card" href="https://www.freelancermap.de/freelancer-verzeichnis/profile/entwicklung/387480-profil-eike-folkerts-software-engineer-senior-full-stack-developer-aus-norden.html"> Freelancermap</a> <br>
+  <a class="fa-brands fa-xing-square" href="https://www.xing.com/profile/Eike_Folkerts2/"> XING</a> <br>
+  <a class="fa-brands fa-linkedin" href="https://www.linkedin.com/in/eike-folkerts-a93138195/"> LinkedIn</a> <br>
   
   
 theme: jekyll-theme-minimal
