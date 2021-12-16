@@ -1,7 +1,6 @@
 ## Portfolio
 
 Welcome, have fun exploring my portfolio.
-<p style="font-size:10px">(currently under construction)</p>
 
 ---
 ### EDUCATION
