@@ -6,6 +6,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.freelancermap.de/freelancer-verzeichnis/profile/entwicklung/387480-profil-eike-folkerts-software-engineer-senior-full-stack-developer-aus-norden.html">Freelancermap</a> <br>
   <a href="https://www.xing.com/profile/Eike_Folkerts2/">XING</a> <br>
   <a href="https://www.linkedin.com/in/eike-folkerts-a93138195/">LinkedIn</a> <br>
+  <i class="fa fa-car"></i>
+  <i class="fa fa-car" style="font-size:48px;"></i>
+  <i class="fa fa-car" style="font-size:60px;color:red;"></i>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-203298902-1
