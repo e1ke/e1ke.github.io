@@ -6,6 +6,7 @@ Welcome, have fun exploring my portfolio.
 ### EDUCATION
 
 - #### [Thesis - Electrical Engineering and Information Technology](/education/thesis)
+- #### [Folkerts_CV_v1.6.pdf](../assets/pdf/Folkerts_CV_v1.6.pdf) ***- updated 2023-02-23***
 #### [](/dummy)
 
 
@@ -26,7 +27,7 @@ Welcome, have fun exploring my portfolio.
 ### HOME LAB
 
 - #### Network Topology
-- #### [Proxmox Server Virtualization](/homelab/proxmox)
+- #### Proxmox Server Virtualization
 - #### VPN-Server (Wireguarad + openVPN)
 - #### NGINX Reverse Proxy
 - #### InvoiceNinja
