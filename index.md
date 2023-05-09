@@ -6,7 +6,7 @@ Welcome, have fun exploring my portfolio.
 ### EDUCATION
 
 - #### [Thesis - Electrical Engineering and Information Technology](/education/thesis)
-- #### [Folkerts_CV_v1.8.pdf](/assets/pdf/Folkerts_CV_v1.8.pdf) _- updated 2023-03-04_
+- #### [Folkerts_CV_v1.9.pdf](/assets/pdf/Folkerts_CV_v1.9.pdf) _- updated 2023-05-01_
 #### [](/dummy)
 
 
