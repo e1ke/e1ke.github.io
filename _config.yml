@@ -1,7 +1,7 @@
 title: Eike Folkerts # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/assets/img/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  This is me, Eike. Software Engineer from Germany, $currYYYY-1988 years old
+  This is me, Eike. Software Engineer from Germany, $currYYYY-1988 years old (that variable is not supposed to work, it's just a joke. Why do I even explain this)
   <br><br>
   <a href="https://www.freelancermap.de/freelancer-verzeichnis/profile/entwicklung/387480-profil-eike-folkerts-software-engineer-senior-full-stack-developer-aus-norden.html"><h class="fa-solid fa-user" style="font-size:20px;"></h> Freelancermap</a> <br>
   <a href="https://www.xing.com/profile/Eike_Folkerts2/"><h class="fa-brands fa-xing-square" style="font-size:20px;"></h> XING</a> <br>
