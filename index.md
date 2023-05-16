@@ -8,6 +8,7 @@ At home, I created a fully automated NON-Cloud Environment with KNX Bussystem, o
 # 📚 EDUCATION
 - [Thesis - Electrical Engineering and Information Technology](/education/thesis)
 - [Folkerts_CV_v1.9.pdf](/assets/pdf/Folkerts_CV_v1.9.pdf) _updated 2023-05-01_  
+
 <br>
 
 # 💻 PORTFOLIO
@@ -29,8 +30,6 @@ Maintenance of build jobs in Jenkins for the KNX ETS Software, parallelization o
   
 </details>
 
-#### Screenshots
-
 <br>
 
 
@@ -40,6 +39,8 @@ _Datineo GmbH_
 **Flutter | Dart | Spring Boot | Bitbucket | Keycloak | Unity 3D Modelling | Figma | Zeplin | MySQL | Jenkins | Confluence | Jira | Scrum**  
 Technical consultant for fullstack development and DevOps  
 Implementation of a Flutter mobile app for the technical recording of agricultural machinery  
+
+#### Screenshots
 
 <br>
 
@@ -101,6 +102,7 @@ Creating Latex-PDF for yearly overview about fields and crop rotation
 - Autonomous Videochat-Tablet for elderly people
 - [Energy-Monitor](https://energy-analysis.de/energymonitor)
 - [Energy-Analysis GmbH Website](https://energy-analysis.de/)
+
 <br>
 
 # 🧪 HOME LAB
@@ -116,6 +118,7 @@ Creating Latex-PDF for yearly overview about fields and crop rotation
 - IP Cameras (Intercom, Synology Surveillance Station, Objectdetection)
 - Portainer
 - Unifi WiFi Controller
+
 <br>
 
 # 🏠 SMART HOME
@@ -133,6 +136,7 @@ Creating Latex-PDF for yearly overview about fields and crop rotation
 - Connected Alarm Clock
 - Smart Breakfast Timer
 - Smart Letterbox
+
 <br>
 
 # 📋 MISC
