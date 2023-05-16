@@ -90,7 +90,7 @@ Server-Client-communication with MariaDB, RestAPI and JSON (Spring Boot)
 Creating Latex-PDF for yearly overview about fields and crop rotation  
 
 <p float="left" align="center">
-  <a href="/assets/img/ackerschlacker.png"><img src="/assets/img/ackerschlacker.png" height="120" />
+  <a href="/assets/img/ackerschlacker.png"><img src="/assets/img/ackerschlacker.png" height="120" /></a>
 </p>
   
 [![AS-screenshot](/assets/img/ackerschlacker.png)](/assets/img/ackerschlacker.png)
