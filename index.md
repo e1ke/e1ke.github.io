@@ -89,6 +89,10 @@ Android-App for agricultural enterprise to document operations on fields
 Server-Client-communication with MariaDB, RestAPI and JSON (Spring Boot)  
 Creating Latex-PDF for yearly overview about fields and crop rotation  
 
+<p float="left" align="center">
+  <img src="/assets/img/ackerschlacker.png" height="120" />
+</p>
+
 <br>
 
 ---
