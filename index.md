@@ -20,13 +20,13 @@ Maintenance of build jobs in Jenkins for the KNX ETS Software, parallelization o
 <details>
   <summary>CLICK HERE FOR DETAILS</summary>
 
-- Maintenance of build jobs in Jenkins for the KNX ETS Software  
-- Automation of tests and visualization of results   
-- Standardization of solutions and tools in the build context  
-- Categorization of occurring build errors based on the build output of the projects by root cause
-- Administration of container-based infrastructure based on Docker, Docker swarm and Kubernetes
-- Maintenance and optimization of CI/CD pipelines on Jenkins and Gitlab Maintenance and upkeep of test systems
-- Interface function Between the development teams and the IT department
+- Maintenance of build jobs in Jenkins for the KNX ETS Software  <br>  
+- Automation of tests and visualization of results   <br>
+- Standardization of solutions and tools in the build context  <br>
+- Categorization of occurring build errors based on the build output of the projects by root cause <br>
+- Administration of container-based infrastructure based on Docker, Docker swarm and Kubernetes  <br>
+- Maintenance and optimization of CI/CD pipelines on Jenkins and Gitlab Maintenance and upkeep of test systems  <br>
+- Interface function Between the development teams and the IT department  <br>
   
 </details>
 
