@@ -11,19 +11,21 @@ At home, I created a fully automated NON-Cloud Environment with KNX Bussystem, o
 
 # 💻 PORTFOLIO
 ### DevOps Engineer (2022)
-_ise individuelle Software und Elektronik GmbH_
-**Jenkins | Gitlab | Puppet | Proxmox | C# | Linux Shell | Powershell | Foreman | Grafana | Windows Server | Confluence | Jira | Scrum**
+_ise individuelle Software und Elektronik GmbH_  
+**Jenkins | Gitlab | Puppet | Proxmox | C# | Linux Shell | Powershell | Foreman | Grafana | Windows Server | Confluence | Jira | Scrum**  
 Maintenance of build jobs in Jenkins for the KNX ETS Software, parallelization of Jenkins CI/CD Pipelines
+
 <details>
   <summary>CLICK HERE FOR DETAILS</summary>
 
 - Maintenance of build jobs in Jenkins for the KNX ETS Software  
-- Automation of tests and visualization of results  
-- Standardization of solutions and tools in the build context
+- Automation of tests and visualization of results   
+- Standardization of solutions and tools in the build context  
 - Categorization of occurring build errors based on the build output of the projects by root cause
 - Administration of container-based infrastructure based on Docker, Docker swarm and Kubernetes
 - Maintenance and optimization of CI/CD pipelines on Jenkins and Gitlab Maintenance and upkeep of test systems
 - Interface function Between the development teams and the IT department
+  
 </details>
 
 #### Screenshots
@@ -33,33 +35,37 @@ Maintenance of build jobs in Jenkins for the KNX ETS Software, parallelization o
 
 ---
 ### Flutter Developer (2022)
-_Datineo GmbH_
-**Flutter | Dart | Spring Boot | Bitbucket | Keycloak | Unity 3D Modelling | Figma | Zeplin | MySQL | Jenkins | Confluence | Jira | Scrum**
-Technical consultant for fullstack development and DevOps
-Implementation of a Flutter mobile app for the technical recording of agricultural machinery
+_Datineo GmbH_  
+**Flutter | Dart | Spring Boot | Bitbucket | Keycloak | Unity 3D Modelling | Figma | Zeplin | MySQL | Jenkins | Confluence | Jira | Scrum**  
+Technical consultant for fullstack development and DevOps  
+Implementation of a Flutter mobile app for the technical recording of agricultural machinery  
+
 <br>
 
 ---
 ### Software Engineer (2015-2021)
-_Energy-Analysis GmbH_
-**Java | JavaFX | Flutter | Spring Boot | Proxmox | Docker | Firebase | AWS | Gitlab | native Android (Java) | native iOS (Objective-C+Swift) | RabbitMQ | Jira | Website with HTML, CSS, JS (Bootsrap)**
-Monitoring and regulating wind power plants with desktop and mobile Applications
-Frontend development for iOS, Android, Desktop (Windows, Linux, Mac)
-Backend development for crawling data from wind power plants, persisting it in a DB and providing it via RestAPI
+_Energy-Analysis GmbH_  
+**Java | JavaFX | Flutter | Spring Boot | Proxmox | Docker | Firebase | AWS | Gitlab | native Android (Java) | native iOS (Objective-C+Swift) | RabbitMQ | Jira | Website with HTML, CSS, JS (Bootsrap)**  
+Monitoring and regulating wind power plants with desktop and mobile Applications  
+Frontend development for iOS, Android, Desktop (Windows, Linux, Mac)  
+Backend development for crawling data from wind power plants, persisting it in a DB and providing it via RestAPI  
+
 <details>
+  
   <summary>CLICK HERE FOR DETAILS</summary>
 
-Developing Java software for monitoring and regulating wind power plants
-Java Backend with MySQL-DB, collecting data over OPC, modem, ODBC
-JavaFX, Java, Swift: Frontend Applications. Desktop-Client (Windows, Linux, MacOS), Android-App, iOS-App (Tablet and Smartphone) with constant updates on all operating systems
-Push notifications over Firebase (former Google Cloud Messaging)
-Set up Jira Server for agile programming
-Set up BitBucket (later GitLab) Server for version control with git
-weekly, fully automated complete backup from company server to external hdd and external private file server over own openvpn server, ransomware-safe
-Automation for internal calculation processes on wind energy outages. Reduced the time consumption for one calculation from 45 minutes to 10 seconds
-Server virtualization of multiple VMs/LXCs with Proxmox VE and Docker
-Frontend redesign with Flutter
-Backend redesign with Spring/JWT
+- Developing Java software for monitoring and regulating wind power plants
+- Java Backend with MySQL-DB, collecting data over OPC, modem, ODBC
+- JavaFX, Java, Swift: Frontend Applications. Desktop-Client (Windows, Linux, MacOS), Android-App, iOS-App (Tablet and Smartphone) with constant updates on all operating systems
+- Push notifications over Firebase (former Google Cloud Messaging)
+- Set up Jira Server for agile programming
+- Set up BitBucket (later GitLab) Server for version control with git
+- weekly, fully automated complete backup from company server to external hdd and external private file server over own openvpn server, ransomware-safe
+- Automation for internal calculation processes on wind energy outages. Reduced the time consumption for one calculation from 45 minutes to 10 seconds
+- Server virtualization of multiple VMs/LXCs with Proxmox VE and Docker
+- Frontend redesign with Flutter
+- Backend redesign with Spring/JWT
+  
 </details>
 
 #### Screenshots
@@ -67,23 +73,25 @@ Backend redesign with Spring/JWT
 <br>
 
 ---
-### Autonomous Videochat Tablet (2020)
-**Android | Tasker | Google Duo | Pushover | RestAPI**
-A possibility for elderly people for vidochatting with their family
-Fully Kiosk Mode: Tablet display turns on, when the elderly person passes and only displays the large homescreen where a tap on pictures of familymembers will call them.  
-Trigger a call: When a family member wants to call the elderly person, the tablet makes a loud sound and autonomously initiates the videocall to the familymember
+### Autonomous Videochat Tablet (2020)  
+**Android | Tasker | Google Duo | Pushover | RestAPI**  
+A possibility for elderly people for vidochatting with their family  
+Fully Kiosk Mode: Tablet display turns on, when the elderly person passes and only displays the large homescreen where a tap on pictures of familymembers will call them  
+Trigger a call: When a family member wants to call the elderly person, the tablet makes a loud sound and autonomously initiates the videocall to the familymember  
 
 #### Screenshots
+
 <br>
 
 ---
-### AckerSchlacker (2016)
-**Android | Spring Boot | MariaDB | JPA | LaTeX PDF creation**
-Android-App for agricultural enterprise to document operations on fields
-Server-Client-communication with MariaDB, RestAPI and JSON (Spring Boot)
-Creating Latex-PDF for yearly overview about fields and crop rotation
+### AckerSchlacker (2016)  
+**Android | Spring Boot | MariaDB | JPA | LaTeX PDF creation**  
+Android-App for agricultural enterprise to document operations on fields  
+Server-Client-communication with MariaDB, RestAPI and JSON (Spring Boot)  
+Creating Latex-PDF for yearly overview about fields and crop rotation  
 
 #### Screenshots
+
 <br>
 
 # 🖥️ FRONTEND / BACKEND DEVELOPMENT
