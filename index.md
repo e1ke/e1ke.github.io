@@ -56,17 +56,17 @@ Backend development for crawling data from wind power plants, persisting it in a
   
   <summary>CLICK HERE FOR DETAILS</summary>
 
-- Developing Java software for monitoring and regulating wind power plants
-- Java Backend with MySQL-DB, collecting data over OPC, modem, ODBC
-- JavaFX, Java, Swift: Frontend Applications. Desktop-Client (Windows, Linux, MacOS), Android-App, iOS-App (Tablet and Smartphone) with constant updates on all operating systems
-- Push notifications over Firebase (former Google Cloud Messaging)
-- Set up Jira Server for agile programming
-- Set up BitBucket (later GitLab) Server for version control with git
-- weekly, fully automated complete backup from company server to external hdd and external private file server over own openvpn server, ransomware-safe
-- Automation for internal calculation processes on wind energy outages. Reduced the time consumption for one calculation from 45 minutes to 10 seconds
-- Server virtualization of multiple VMs/LXCs with Proxmox VE and Docker
-- Frontend redesign with Flutter
-- Backend redesign with Spring/JWT
+- Developing Java software for monitoring and regulating wind power plants  <br>
+- Java Backend with MySQL-DB, collecting data over OPC, modem, ODBC  <br>
+- JavaFX, Java, Swift: Frontend Applications. Desktop-Client (Windows, Linux, MacOS), Android-App, iOS-App (Tablet and Smartphone) with constant updates on all operating systems  <br>
+- Push notifications over Firebase (former Google Cloud Messaging)  <br>
+- Set up Jira Server for agile programming  <br>
+- Set up BitBucket (later GitLab) Server for version control with git  <br>
+- weekly, fully automated complete backup from company server to external hdd and external private file server over own openvpn server, ransomware-safe  <br>
+- Automation for internal calculation processes on wind energy outages. Reduced the time consumption for one calculation from 45 minutes to 10 seconds  <br>
+- Server virtualization of multiple VMs/LXCs with Proxmox VE and Docker  <br>
+- Frontend redesign with Flutter  <br>
+- Backend redesign with Spring/JWT  <br>
   
 </details>
 
