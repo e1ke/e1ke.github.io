@@ -1,7 +1,8 @@
 # 🙋🏼‍♂️ABOUT ME
-Hi, I am Eike, Software Engineer since 2015.
+Hi, I am Eike, a German Software Engineer since 2015.
 I like developing Apps with **Flutter**, creating Backends with **Java Spring Boot** and diving into **DevOps** and Cloud-Engineering with new and reliable technologies.  
-At home, I created a fully automated NON-Cloud Environment with KNX Bussystem, openHAB, Home Assistant, Zigbee and other shenanigans. My Home Lab consists of multiple Servers, running Proxmox, Kubernetes, DNS-Server, NGINX Reverse Proxy, Grafana, Node-Red, TrueNAS, Nextcloud, Unifi and many more. 
+At home, I created a fully automated cloudless Environment with KNX Bussystem, openHAB, Home Assistant, Zigbee and other shenanigans. My Home Lab consists of multiple Servers, running Proxmox, Kubernetes, DNS-Server, NGINX Reverse Proxy, Grafana, Node-Red, TrueNAS, Nextcloud, Unifi and many more.  
+Have fun, exploring my portfolio
 
 <br>
 
