@@ -42,14 +42,12 @@ _Datineo GmbH_
 Technical consultant for fullstack development and DevOps  
 Implementation of a Flutter mobile app for the technical recording of agricultural machinery  
 
-#### Screenshots
-
 <br>
 
 ---
 ### Software Engineer (2015-2021)
 _Energy-Analysis GmbH_  
-**Java | JavaFX | Flutter | Spring Boot | Proxmox | Docker | Firebase | AWS | Gitlab | native Android (Java) | native iOS (Objective-C+Swift) | RabbitMQ | Jira | Website with HTML, CSS, JS (Bootsrap)**  
+**Java | JavaFX | Flutter | Spring Boot | Proxmox | Docker | Firebase | AWS | Gitlab CI/CD | native Android (Java) | native iOS (Objective-C+Swift) | RabbitMQ | Jira | Website with HTML, CSS, JS (Bootsrap)**  
 Monitoring and regulating wind power plants with desktop and mobile Applications  
 Frontend development for iOS, Android, Desktop (Windows, Linux, Mac)  
 Backend development for crawling data from wind power plants, persisting it in a DB and providing it via RestAPI  
@@ -72,9 +70,8 @@ Backend development for crawling data from wind power plants, persisting it in a
   
 </details>
 
-#### Screenshots
-
 <br>
+
 
 ---
 ### Autonomous Videochat Tablet (2020)  
@@ -82,8 +79,6 @@ Backend development for crawling data from wind power plants, persisting it in a
 A possibility for elderly people for vidochatting with their family  
 Fully Kiosk Mode: Tablet display turns on, when the elderly person passes and only displays the large homescreen where a tap on pictures of familymembers will call them  
 Trigger a call: When a family member wants to call the elderly person, the tablet makes a loud sound and autonomously initiates the videocall to the familymember  
-
-#### Screenshots
 
 <br>
 
@@ -94,10 +89,22 @@ Android-App for agricultural enterprise to document operations on fields
 Server-Client-communication with MariaDB, RestAPI and JSON (Spring Boot)  
 Creating Latex-PDF for yearly overview about fields and crop rotation  
 
-#### Screenshots
+<br>
+
+---
+### Homelab  
+**Proxmox | Kubernetes | Docker (Swarm, Compose, Edge Computing, Portainer) | VPN | AdGuard | NGINX Reverse Proxy | Nextcloud | NAS | IP Cameras | Unifi | Bitwarden | Paperless-ngx | Bookstack | Kimai (Timetracker) | Synology**  
 
 <br>
 
+
+---
+### Smart Home  
+**openHAB | KNX Bussystem | Home Assistant | InfluxDB | Grafana | CheckMK | MQTT | Node-Red | Zigbee | Energy Smartmeter | Photovoltaic system with battery**  
+
+<br>
+
+<!---
 # 🖥️ FRONTEND / BACKEND DEVELOPMENT
 
 - [AckerSchlacker](/apps/ackerschlacker)
@@ -140,6 +147,8 @@ Creating Latex-PDF for yearly overview about fields and crop rotation
 - Smart Letterbox
 
 <br>
+-->
+
 
 # 📋 MISC
 - Graphic Design w/ Photoshop + Gimp
