@@ -12,6 +12,8 @@ At home, I created a fully automated NON-Cloud Environment with KNX Bussystem, o
 <br>
 
 # 💻 PORTFOLIO
+
+---
 ### DevOps Engineer (2022)
 _ise individuelle Software und Elektronik GmbH_  
 **Jenkins | Gitlab | Puppet | Proxmox | C# | Linux Shell | Powershell | Foreman | Grafana | Windows Server | Confluence | Jira | Scrum**  
