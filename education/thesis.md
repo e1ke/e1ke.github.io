@@ -1,33 +1,33 @@
-## Bachelor Thesis
+## Bachelorarbeit
 
-For my bachelor thesis in Electrical Engineering and Information Technology in Hannover, 2016, I developed a surveillance system with the help of microelectronics.
+Für meine Bachelorarbeit in Elektrotechnik und Informationstechnik in Hannover, 2016, habe ich mithilfe von Mikroelektronik ein Überwachungssystem entwickelt.
 
 ![logo](../assets/img/ba_logo.png)
 
-The functionalities are 
-- Raspberry Pi as a serving unit (Java)
-- Native Android App with controls (Java)
-- detecting movement with an ESP8266 as PIR (LUA)
-- toggling a power outlet by 433 MHz radio
-- Livestream of a Raspberry Pi camera
-- Push notifications on phone + smartwatch 
+Die Funktionalitäten umfassen:
+- Raspberry Pi als Servereinheit (Java)
+- Native Android-App mit Steuerungselementen (Java)
+- Bewegungserkennung mit einem ESP8266 als PIR (LUA)
+- Schalten einer Steckdose per 433-MHz-Funk
+- Livestream einer Raspberry-Pi-Kamera
+- Push-Benachrichtigungen auf Smartphone und Smartwatch
 
-### Why I went my own way
-Although there were many possibilities to use existing smarthome/IoT systems like FHEM and openHAB, I decided on programming my own backend. 
-I wanted to dive deep into the world of sockets, push notifications and sessions, that is what helped me understand how the structure behind every application looks like.
+### Warum ich meinen eigenen Weg gegangen bin
+Obwohl es viele Möglichkeiten gab, bestehende Smarthome/IoT-Systeme wie FHEM und openHAB zu nutzen, habe ich mich entschieden, mein eigenes Backend zu programmieren.
+Ich wollte tief in die Welt der Sockets, Push-Benachrichtigungen und Sessions eintauchen – das hat mir geholfen zu verstehen, wie die Struktur hinter jeder Anwendung aussieht.
 
-### Why Google's Push Service
-I used Google's Firebase Cloud Messaging for sending and receiving push notifications on any phone. I decided against implementing my own push technique, 
-because Google's messaging works flawless and it is not draining the smartphone battery too much, as it is running on iPhone and Android devices already anyway.
+### Warum Googles Push-Dienst
+Ich habe Googles Firebase Cloud Messaging für das Senden und Empfangen von Push-Benachrichtigungen auf jedem Smartphone verwendet. Ich habe mich dagegen entschieden, meine eigene Push-Technik zu implementieren,
+da Googles Messaging reibungslos funktioniert und den Smartphone-Akku nicht zu stark belastet, da es auf iPhone- und Android-Geräten ohnehin bereits läuft.
 
-### Which Texteditor 
-I started writing my thesis with MS Word but when I began banging my head against a wall I quickly remembered a different possibility:
-LaTeX. I started getting into Latex with writing my thesis and will not return back. 
-The big advantages in my case were the list of abbreviations, images and sources, code listings, math formulas, hyperlinks in pdf, 
-footnotes, header and mixing DIN A4 with DIN A3 layouts.
+### Welcher Texteditor
+Ich begann meine Arbeit mit MS Word, aber als ich anfing, mit dem Kopf gegen die Wand zu schlagen, erinnerte ich mich schnell an eine andere Möglichkeit:
+LaTeX. Ich fing an, mich mit LaTeX zu beschäftigen, indem ich meine Arbeit damit schrieb, und werde nie wieder zurückgehen.
+Die großen Vorteile in meinem Fall waren das Abkürzungsverzeichnis, das Abbildungsverzeichnis und das Quellenverzeichnis, Code-Listings, mathematische Formeln, Hyperlinks im PDF,
+Fußnoten, Kopfzeilen und das Mischen von DIN-A4- und DIN-A3-Layouts.
 
 ---
-### Concept
+### Konzept
 ![concept](../assets/img/ba_konzept.png)
 
 ---
@@ -35,13 +35,13 @@ footnotes, header and mixing DIN A4 with DIN A3 layouts.
 ![listing](../assets/img/ba_listing.png)
 
 ---
-### Android App
+### Android-App
 ![app](../assets/img/ba_app.png)
 
 ---
-### Push Notification
+### Push-Benachrichtigung
 ![watch](../assets/img/ba_watch.png)
 
 ---
-### Download PDF (German)
+### PDF herunterladen (Deutsch)
 [BA_Folkerts.pdf](../assets/pdf/BA_Folkerts.pdf)

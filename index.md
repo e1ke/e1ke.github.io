@@ -1,14 +1,14 @@
-# 🙋🏼‍♂️ABOUT ME
-Hi, I am Eike, a German Software Engineer since 2015.
-I like developing Apps with **Flutter**, creating Backends with **Java Spring Boot or Supabase** and constructing High-Availability IT-Infrastructure as **DevOps- and Cloud-Engineer** with Kubernetes and other reliable and secure technologies.  
-At home, I created a fully automated cloudless Environment with KNX Bussystem, openHAB, Home Assistant, Zigbee and other shenanigans. My Home Lab consists of multiple Servers, running Proxmox, Kubernetes, DNS-Server, NGINX Reverse Proxy, Grafana, Node-Red, TrueNAS, Nextcloud, Unifi and many more.  
-Have fun, exploring my portfolio
+# 🙋🏼‍♂️ÜBER MICH
+Hallo, ich bin Eike, Software-Entwickler aus Deutschland seit 2015.
+Ich entwickle gerne Apps mit **Flutter**, erstelle Backends mit **Java Spring Boot oder Supabase** und baue hochverfügbare IT-Infrastruktur als **DevOps- und Cloud-Engineer** mit Kubernetes und anderen zuverlässigen und sicheren Technologien.
+Zu Hause habe ich eine vollständig automatisierte, cloudlose Umgebung mit KNX-Bussystem, openHAB, Home Assistant, Zigbee und weiteren Dingen geschaffen. Mein Homelab besteht aus mehreren Servern mit Proxmox, Kubernetes, DNS-Server, NGINX Reverse Proxy, Grafana, Node-Red, TrueNAS, Nextcloud, Unifi und vielem mehr.
+Viel Spaß beim Durchstöbern meines Portfolios
 
 <br>
 
-# 📚 EDUCATION
-- [Thesis - Electrical Engineering and Information Technology](/education/thesis)
-- [Folkerts_CV_v1.9.pdf](/assets/pdf/Folkerts_CV_v1.9.pdf) _updated 2023-05-01_  
+# 📚 AUSBILDUNG
+- [Bachelorarbeit - Elektrotechnik und Informationstechnik](/education/thesis)
+- [Folkerts_CV_v1.9.pdf](/assets/pdf/Folkerts_CV_v1.9.pdf) _aktualisiert 2023-05-01_
 
 <br>
 
@@ -16,21 +16,21 @@ Have fun, exploring my portfolio
 
 ---
 ### DevOps Engineer (2022)
-_ise individuelle Software und Elektronik GmbH_  
-**Jenkins | Gitlab | Puppet | Proxmox | C# | Linux Shell | Powershell | Foreman | Grafana | Windows Server | Confluence | Jira | Scrum**  
-Maintenance of build jobs in Jenkins for the KNX ETS Software, parallelization of Jenkins CI/CD Pipelines
+_ise individuelle Software und Elektronik GmbH_
+**Jenkins | Gitlab | Puppet | Proxmox | C# | Linux Shell | Powershell | Foreman | Grafana | Windows Server | Confluence | Jira | Scrum**
+Pflege von Build-Jobs in Jenkins für die KNX ETS Software, Parallelisierung von Jenkins CI/CD-Pipelines
 
 <details>
-  <summary>CLICK HERE FOR DETAILS</summary>
+  <summary>HIER KLICKEN FÜR DETAILS</summary>
 
-- Maintenance of build jobs in Jenkins for the KNX ETS Software  <br>  
-- Automation of tests and visualization of results   <br>
-- Standardization of solutions and tools in the build context  <br>
-- Categorization of occurring build errors based on the build output of the projects by root cause <br>
-- Administration of container-based infrastructure based on Docker, Docker swarm and Kubernetes  <br>
-- Maintenance and optimization of CI/CD pipelines on Jenkins and Gitlab Maintenance and upkeep of test systems  <br>
-- Interface function Between the development teams and the IT department  <br>
-  
+- Pflege von Build-Jobs in Jenkins für die KNX ETS Software  <br>
+- Automatisierung von Tests und Visualisierung der Ergebnisse   <br>
+- Standardisierung von Lösungen und Tools im Build-Kontext  <br>
+- Kategorisierung von auftretenden Build-Fehlern anhand der Build-Ausgabe der Projekte nach Grundursache <br>
+- Administration von Container-basierter Infrastruktur auf Basis von Docker, Docker Swarm und Kubernetes  <br>
+- Pflege und Optimierung von CI/CD-Pipelines in Jenkins und GitLab sowie Wartung und Instandhaltung von Testsystemen  <br>
+- Schnittstellenfunktion zwischen den Entwicklungsteams und der IT-Abteilung  <br>
+
 </details>
 
 <br>
@@ -38,75 +38,75 @@ Maintenance of build jobs in Jenkins for the KNX ETS Software, parallelization o
 
 ---
 ### Flutter Developer (2022)
-_Datineo GmbH_  
-**Flutter | Dart | Spring Boot | Bitbucket | Keycloak | Unity 3D Modelling | Figma | Zeplin | MySQL | Jenkins | Confluence | Jira | Scrum**  
-Technical consultant for fullstack development and DevOps  
-Implementation of a Flutter mobile app for the technical recording of agricultural machinery  
+_Datineo GmbH_
+**Flutter | Dart | Spring Boot | Bitbucket | Keycloak | Unity 3D Modelling | Figma | Zeplin | MySQL | Jenkins | Confluence | Jira | Scrum**
+Technischer Berater für Fullstack-Entwicklung und DevOps
+Implementierung einer Flutter Mobile App zur technischen Erfassung von Landmaschinen
 
 <br>
 
 ---
 ### Software Engineer (2015-2021)
-_Energy-Analysis GmbH_  
-**Java | JavaFX | Flutter | Spring Boot | Proxmox | Docker | Firebase | AWS | Gitlab CI/CD | native Android (Java) | native iOS (Objective-C+Swift) | RabbitMQ | Jira | Website with HTML, CSS, JS (Bootsrap)**  
-Monitoring and regulating wind power plants with desktop and mobile Applications  
-Frontend development for iOS, Android, Desktop (Windows, Linux, Mac)  
-Backend development for crawling data from wind power plants, persisting it in a DB and providing it via RestAPI  
+_Energy-Analysis GmbH_
+**Java | JavaFX | Flutter | Spring Boot | Proxmox | Docker | Firebase | AWS | Gitlab CI/CD | native Android (Java) | native iOS (Objective-C+Swift) | RabbitMQ | Jira | Website mit HTML, CSS, JS (Bootstrap)**
+Überwachung und Regelung von Windkraftanlagen mit Desktop- und Mobil-Applikationen
+Frontend-Entwicklung für iOS, Android, Desktop (Windows, Linux, Mac)
+Backend-Entwicklung zum Crawlen von Daten aus Windkraftanlagen, Persistierung in einer DB und Bereitstellung via RestAPI
 
 <details>
-  
-  <summary>CLICK HERE FOR DETAILS</summary>
 
-- Developing Java software for monitoring and regulating wind power plants  <br>
-- Java Backend with MySQL-DB, collecting data over OPC, modem, ODBC  <br>
-- JavaFX, Java, Swift: Frontend Applications. Desktop-Client (Windows, Linux, MacOS), Android-App, iOS-App (Tablet and Smartphone) with constant updates on all operating systems  <br>
-- Push notifications over Firebase (former Google Cloud Messaging)  <br>
-- Set up Jira Server for agile programming  <br>
-- Set up BitBucket (later GitLab) Server for version control with git  <br>
-- weekly, fully automated complete backup from company server to external hdd and external private file server over own openvpn server, ransomware-safe  <br>
-- Automation for internal calculation processes on wind energy outages. Reduced the time consumption for one calculation from 45 minutes to 10 seconds  <br>
-- Server virtualization of multiple VMs/LXCs with Proxmox VE and Docker  <br>
-- Frontend redesign with Flutter  <br>
-- Backend redesign with Spring/JWT  <br>
-  
+  <summary>HIER KLICKEN FÜR DETAILS</summary>
+
+- Entwicklung von Java-Software zur Überwachung und Regelung von Windkraftanlagen  <br>
+- Java-Backend mit MySQL-DB, Datenerfassung über OPC, Modem, ODBC  <br>
+- JavaFX, Java, Swift: Frontend-Applikationen. Desktop-Client (Windows, Linux, MacOS), Android-App, iOS-App (Tablet und Smartphone) mit kontinuierlichen Updates auf allen Betriebssystemen  <br>
+- Push-Benachrichtigungen über Firebase (ehemals Google Cloud Messaging)  <br>
+- Einrichtung eines Jira-Servers für agile Programmierung  <br>
+- Einrichtung eines BitBucket (später GitLab) Servers für Versionsverwaltung mit Git  <br>
+- Wöchentliches, vollautomatisches Komplett-Backup vom Firmenserver auf externe HDD und externen privaten Fileserver über eigenen OpenVPN-Server, ransomware-sicher  <br>
+- Automatisierung interner Berechnungsprozesse bei Windenergie-Ausfällen. Reduzierung des Zeitaufwands für eine Berechnung von 45 Minuten auf 10 Sekunden  <br>
+- Server-Virtualisierung mehrerer VMs/LXCs mit Proxmox VE und Docker  <br>
+- Frontend-Neugestaltung mit Flutter  <br>
+- Backend-Neugestaltung mit Spring/JWT  <br>
+
 </details>
 
 <br>
 
 
 ---
-### Autonomous Videochat Tablet (2020)  
-**Android | Tasker | Google Duo | Pushover | RestAPI**  
-A possibility for elderly people for vidochatting with their family  
-Fully Kiosk Mode: Tablet display turns on, when the elderly person passes and only displays the large homescreen where a tap on pictures of familymembers will call them  
-Trigger a call: When a family member wants to call the elderly person, the tablet makes a loud sound and autonomously initiates the videocall to the familymember  
+### Autonomes Videochat-Tablet (2020)
+**Android | Tasker | Google Duo | Pushover | RestAPI**
+Eine Möglichkeit für ältere Menschen zum Videochatten mit ihrer Familie
+Vollständiger Kiosk-Modus: Tablet-Display schaltet sich ein, wenn die ältere Person vorbeigeht, und zeigt nur den großen Homescreen, auf dem ein Tippen auf Familienfotos diese anruft
+Anruf auslösen: Wenn ein Familienmitglied die ältere Person anrufen möchte, gibt das Tablet ein lautes Geräusch von sich und initiiert autonom den Videoanruf zum Familienmitglied
 
 <br>
 
 ---
-### AckerSchlacker (2016)  
-**Android | Spring Boot | MariaDB | JPA | LaTeX PDF creation**  
-Android-App for agricultural enterprise to document operations on fields  
-Server-Client-communication with MariaDB, RestAPI and JSON (Spring Boot)  
-Creating Latex-PDF for yearly overview about fields and crop rotation  
+### AckerSchlacker (2016)
+**Android | Spring Boot | MariaDB | JPA | LaTeX PDF-Erstellung**
+Android-App für Landwirtschaftsbetriebe zur Dokumentation von Feldarbeiten
+Server-Client-Kommunikation mit MariaDB, RestAPI und JSON (Spring Boot)
+Erstellung von LaTeX-PDFs für die jährliche Übersicht über Felder und Fruchtfolge
 
 <p float="left" align="center">
   <a href="/assets/img/ackerschlacker.png"><img src="/assets/img/ackerschlacker.png" height="120" /></a>
 </p>
- 
- 
+
+
 <br>
 
 ---
-### Homelab  
-**Proxmox | Kubernetes | Docker (Swarm, Compose, Edge Computing, Portainer) | VPN | AdGuard | NGINX Reverse Proxy | Nextcloud | NAS | IP Cameras | Unifi | Bitwarden | Paperless-ngx | Bookstack | Kimai (Timetracker) | Synology**  
+### Homelab
+**Proxmox | Kubernetes | Docker (Swarm, Compose, Edge Computing, Portainer) | VPN | AdGuard | NGINX Reverse Proxy | Nextcloud | NAS | IP Cameras | Unifi | Bitwarden | Paperless-ngx | Bookstack | Kimai (Timetracker) | Synology**
 
 <br>
 
 
 ---
-### Smart Home  
-**openHAB | KNX Bussystem | Home Assistant | InfluxDB | Grafana | CheckMK | MQTT | Node-Red | Zigbee | Energy Smartmeter | Photovoltaic system with battery**  
+### Smart Home
+**openHAB | KNX Bussystem | Home Assistant | InfluxDB | Grafana | CheckMK | MQTT | Node-Red | Zigbee | Energy Smartmeter | Photovoltaic system with battery**
 
 <br>
 
@@ -156,7 +156,7 @@ Creating Latex-PDF for yearly overview about fields and crop rotation
 -->
 
 
-# 📋 MISC
-- Graphic Design w/ Photoshop + Gimp
-- Video Editing w/ Premier + KdenLive
-- 3D Modelling a Private Home w/ Sketchup
+# 📋 DIVERSES
+- Grafikdesign mit Photoshop + Gimp
+- Videobearbeitung mit Premiere + KdenLive
+- 3D-Modellierung eines Privathauses mit Sketchup

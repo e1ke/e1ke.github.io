@@ -1,41 +1,41 @@
-## Proxmox Server Virtualization
+## Proxmox Server-Virtualisierung
 
-My personal setup of racks with servers, switches and other devices startet many years ago with only a Raspberry Pi 1. 
-It served as a multimedia-center to stream movies from my PC to the TV. Soon I 'needed' a NAS to store my movies and files in the local network, 
-an interface to access my network from the outside and of course software to turn light scenes when watching movies. 
-The system grew and so did the power consumption and my knwoledge of how things in a 'home lab' work. 
+Mein persönliches Rack-Setup mit Servern, Switches und anderen Geräten begann vor vielen Jahren mit nur einem Raspberry Pi 1.
+Er diente als Multimedia-Center zum Streamen von Filmen vom PC auf den Fernseher. Bald "brauchte" ich ein NAS zum Speichern meiner Filme und Dateien im lokalen Netzwerk,
+eine Schnittstelle für den Zugriff auf mein Netzwerk von außen und natürlich Software zum Schalten von Lichtszenen beim Filmschauen.
+Das System wuchs und damit auch der Stromverbrauch und mein Wissen darüber, wie die Dinge in einem "Homelab" funktionieren.
 
-To reduce complexity and increase the ability to easily manage all the different services, I looked for an observing, unifying system and discovered Docker. 
-With Docker i was able to test and run services in containers, without affecting each other. But soon Docker came to its limits for my needs, that's when I discovered Proxmox.
-Proxmox is also able to containerise Linux services but also runs Virtual Machines, so that it was possible to emulate any system I need. 
-It is similar to VMWare and Hyper-V, but with the difference that it is opensource and has a free version.
+Um die Komplexität zu reduzieren und die Verwaltung aller verschiedenen Dienste zu vereinfachen, suchte ich nach einem übergeordneten, vereinheitlichenden System und entdeckte Docker.
+Mit Docker konnte ich Dienste in Containern testen und betreiben, ohne dass sie sich gegenseitig beeinflussen. Doch bald stieß Docker für meine Anforderungen an seine Grenzen – da entdeckte ich Proxmox.
+Proxmox kann Linux-Dienste ebenfalls containerisieren, betreibt aber auch Virtuelle Maschinen, sodass es möglich ist, jedes benötigte System zu emulieren.
+Es ähnelt VMWare und Hyper-V, mit dem Unterschied, dass es Open Source ist und eine kostenlose Version hat.
 
 ![overview](../assets/img/prxmx_overview.png)
 
-Today, multiple Proxmox instances are running on efficient, powerful and reliable computer systems. 
-Not only for my personal use but for friends, family and clients, my server farm became much more important over the years. 
-Especially things like 
-- redundant power supplies and NICs
-- reliable harddrives with ZFS filesystem in a RAID
-- High Availability for important services with multiple Proxmox Nodes if one dies
-- EEC RAM
-- network bonding and bridging as well as 
-- daily incremental backups 
+Heute laufen mehrere Proxmox-Instanzen auf effizienten, leistungsstarken und zuverlässigen Computersystemen.
+Nicht nur für den persönlichen Gebrauch, sondern auch für Freunde, Familie und Kunden ist meine Serverfarm über die Jahre deutlich wichtiger geworden.
+Insbesondere Dinge wie
+- redundante Netzteile und NICs
+- zuverlässige Festplatten mit ZFS-Dateisystem in einem RAID
+- Hochverfügbarkeit für wichtige Dienste mit mehreren Proxmox-Nodes, falls einer ausfällt
+- ECC-RAM
+- Netzwerk-Bonding und -Bridging sowie
+- tägliche inkrementelle Backups
 
-made my admin-life much easier.
+haben mein Admin-Leben deutlich einfacher gemacht.
 
 
-This is a summary of a VM:
+Dies ist eine Zusammenfassung einer VM:
 
 ![vm](../assets/img/prxmx_vm.png)
 
 
-The GUI is also accessible over Proxmox' Webinterface:
+Das GUI ist auch über Proxmox' Webinterface erreichbar:
 
 ![vmgui](../assets/img/prxmx_vmgui.png)
 
 
-Also of course its Shell:
+Und natürlich auch über die Shell:
 
 ![vmshell](../assets/img/prxmx_vmshell.png)
 

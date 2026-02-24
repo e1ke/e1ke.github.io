@@ -1,17 +1,17 @@
 ## AckerSchlacker
 
-AckerSchlacker is a mobile App for agricultural enterprises to document operations on fields. It is used by farmers to take advantage of their mobile phone after finishing the work.
-The entered information are synchronized immediately among all users, so that any staff member can track the on field operations.
+AckerSchlacker ist eine mobile App für Landwirtschaftsbetriebe zur Dokumentation von Feldarbeiten. Sie wird von Landwirten genutzt, um ihr Mobiltelefon nach der Arbeit sinnvoll einzusetzen.
+Die eingegebenen Informationen werden sofort unter allen Nutzern synchronisiert, sodass jedes Teammitglied die Feldarbeiten verfolgen kann.
 
 ### Tech-Stack:
-- Java, Frontend with native Android Programming 
-- Java Spring Boot, Backend with RestAPI + JSON
-- Java Spring Data, JPA with MariaDB as persistent Database
-- LaTeX PDF creation serverside
+- Java, Frontend mit nativer Android-Programmierung
+- Java Spring Boot, Backend mit RestAPI + JSON
+- Java Spring Data, JPA mit MariaDB als persistente Datenbank
+- LaTeX PDF-Erstellung serverseitig
 
-I built the App in 2016 for my family, to ease the listed documentation and statistics in a PDF file. 
-In Germany, once a year every farmer is obliged to expose their pesticides in a so called 'Ackerschlagkartei'. 
-If you speak out loud Ackerschlagkartei very quickly in German, it sounds like AckerSchlacker
+Ich habe die App 2016 für meine Familie entwickelt, um die aufgelistete Dokumentation und Statistiken in einer PDF-Datei zu vereinfachen.
+In Deutschland ist jeder Landwirt einmal im Jahr verpflichtet, seinen Pflanzenschutzmitteleinsatz in einer sogenannten 'Ackerschlagkartei' offenzulegen.
+Wenn man 'Ackerschlagkartei' schnell laut ausspricht, klingt es wie 'AckerSchlacker'.
 
 ### Screenshots
 
