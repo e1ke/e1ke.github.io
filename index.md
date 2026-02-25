@@ -1,13 +1,20 @@
 # 🙋🏼‍♂️ÜBER MICH
-Hallo, ich bin Eike, Software-Entwickler aus Deutschland seit 2015.
-Ich entwickle gerne Apps mit **Flutter**, erstelle Backends mit **Java Spring Boot oder Supabase** und baue hochverfügbare IT-Infrastruktur als **DevOps- und Cloud-Engineer** mit Kubernetes und anderen zuverlässigen und sicheren Technologien.
-Zu Hause habe ich eine vollständig automatisierte, cloudlose Umgebung mit KNX-Bussystem, openHAB, Home Assistant, Zigbee und weiteren Dingen geschaffen. Mein Homelab besteht aus mehreren Servern mit Proxmox, Kubernetes, DNS-Server, NGINX Reverse Proxy, Grafana, Node-Red, TrueNAS, Nextcloud, Unifi und vielem mehr.
+Moin, ich bin Eike, Software-Entwickler aus Ostfriesland.  
+Nach meinem Studiumabschluss 2015 für Elektrotechnik und Ingenieurinformatik in Hannover habe ich 6 Jahre lang praktische Erfahrung als Software-Ingenieur gesammelt, bevor ich mich 2021 als Freiberufler selbstständig machte.  
+Seitdem baue ich gerne hochverfügbare IT-Infrastruktur als **DevOps-Ingenieur** mit Kubernetes und Docker Swarm. 
+Digitale Souveränität und Unabhägigkeit von Servern anderer Unternehmen realisiere ich u.a. mit Nextcloud, Jitsi, Authentik und Matrix Element.  
+Mithilfe lokaler KI (zB Ollama) entwickle ich ein datenschutzfreundliches Setup auf eigenen Servern, das u.a. papierloses arbeiten mit automatischer Zuordnung und **echter** Bilderkennung von Dokumenten, Verarbeiten von sensiblen Dateien und Datenanken, sowie das Chatten über Dokumente und Einträge in einem eigenem Wiki ermöglicht.      
+Außerdem entwickle ich gerne Apps mit **Flutter**, erstelle Backends mit **Supabase** und manchmal erstelle ich auch Websites.  
+Zu Hause findet ein Offline-Smarthome, bestehend aus KNX-Bussystem (Gebäudeautomation), Home Assistant und weiteren Gimmicks meine Zuwendung.  
+Mein Homelab besteht aus mehreren Servern mit Proxmox, Kubernetes, DNS-Server, NGINX Reverse Proxy, Grafana, Node-Red, TrueNAS, Nextcloud, Unifi und vielem mehr.  
+Startups finden in mir die Eierlegende Wollmilchsau. Ich liebe es an meine Grenzen zu stoßen, auch wenn das ein schmaler Grad zwischen Frust und Erfolg bedeutet - bevor ich jedoch Geld und Zeit verbrenne, hole ich mir auch gerne Hilfe aus meinem zuverlässigen Netzwerk.  
+  
 Viel Spaß beim Durchstöbern meines Portfolios
 
 <br>
 
 # 📚 AUSBILDUNG
-- [Bachelorarbeit - Elektrotechnik und Informationstechnik](/education/thesis)
+- [Thesis - Elektrotechnik und Informationstechnik, Schwerpunkt Ingenieurinformatik](/education/thesis)
 - [Folkerts_CV_v1.9.pdf](/assets/pdf/Folkerts_CV_v1.9.pdf) _aktualisiert 2023-05-01_
 
 <br>
@@ -17,7 +24,8 @@ Viel Spaß beim Durchstöbern meines Portfolios
 ---
 ### DevOps Engineer (2022)
 _ise individuelle Software und Elektronik GmbH_
-**Jenkins | Gitlab | Puppet | Proxmox | C# | Linux Shell | Powershell | Foreman | Grafana | Windows Server | Confluence | Jira | Scrum**
+<br>
+**Jenkins | Gitlab | Puppet | Proxmox | C# | Linux Shell | Powershell | Foreman | Grafana | Windows Server | Confluence | Jira | Scrum**  
 Pflege von Build-Jobs in Jenkins für die KNX ETS Software, Parallelisierung von Jenkins CI/CD-Pipelines
 
 <details>
@@ -39,7 +47,9 @@ Pflege von Build-Jobs in Jenkins für die KNX ETS Software, Parallelisierung von
 ---
 ### Flutter Developer (2022)
 _Datineo GmbH_
+<br>
 **Flutter | Dart | Spring Boot | Bitbucket | Keycloak | Unity 3D Modelling | Figma | Zeplin | MySQL | Jenkins | Confluence | Jira | Scrum**
+<br>
 Technischer Berater für Fullstack-Entwicklung und DevOps
 Implementierung einer Flutter Mobile App zur technischen Erfassung von Landmaschinen
 
@@ -48,7 +58,9 @@ Implementierung einer Flutter Mobile App zur technischen Erfassung von Landmasch
 ---
 ### Software Engineer (2015-2021)
 _Energy-Analysis GmbH_
+<br>
 **Java | JavaFX | Flutter | Spring Boot | Proxmox | Docker | Firebase | AWS | Gitlab CI/CD | native Android (Java) | native iOS (Objective-C+Swift) | RabbitMQ | Jira | Website mit HTML, CSS, JS (Bootstrap)**
+<br>
 Überwachung und Regelung von Windkraftanlagen mit Desktop- und Mobil-Applikationen
 Frontend-Entwicklung für iOS, Android, Desktop (Windows, Linux, Mac)
 Backend-Entwicklung zum Crawlen von Daten aus Windkraftanlagen, Persistierung in einer DB und Bereitstellung via RestAPI
@@ -77,6 +89,7 @@ Backend-Entwicklung zum Crawlen von Daten aus Windkraftanlagen, Persistierung in
 ---
 ### Autonomes Videochat-Tablet (2020)
 **Android | Tasker | Google Duo | Pushover | RestAPI**
+<br>
 Eine Möglichkeit für ältere Menschen zum Videochatten mit ihrer Familie
 Vollständiger Kiosk-Modus: Tablet-Display schaltet sich ein, wenn die ältere Person vorbeigeht, und zeigt nur den großen Homescreen, auf dem ein Tippen auf Familienfotos diese anruft
 Anruf auslösen: Wenn ein Familienmitglied die ältere Person anrufen möchte, gibt das Tablet ein lautes Geräusch von sich und initiiert autonom den Videoanruf zum Familienmitglied
@@ -86,6 +99,7 @@ Anruf auslösen: Wenn ein Familienmitglied die ältere Person anrufen möchte, g
 ---
 ### AckerSchlacker (2016)
 **Android | Spring Boot | MariaDB | JPA | LaTeX PDF-Erstellung**
+<br>
 Android-App für Landwirtschaftsbetriebe zur Dokumentation von Feldarbeiten
 Server-Client-Kommunikation mit MariaDB, RestAPI und JSON (Spring Boot)
 Erstellung von LaTeX-PDFs für die jährliche Übersicht über Felder und Fruchtfolge
@@ -109,52 +123,6 @@ Erstellung von LaTeX-PDFs für die jährliche Übersicht über Felder und Frucht
 **openHAB | KNX Bussystem | Home Assistant | InfluxDB | Grafana | CheckMK | MQTT | Node-Red | Zigbee | Energy Smartmeter | Photovoltaic system with battery**
 
 <br>
-
-<!---
-# 🖥️ FRONTEND / BACKEND DEVELOPMENT
-
-- [AckerSchlacker](/apps/ackerschlacker)
-- Autonomous Videochat-Tablet for elderly people
-- [Energy-Monitor](https://energy-analysis.de/energymonitor)
-- [Energy-Analysis GmbH Website](https://energy-analysis.de/)
-
-<br>
-
-# 🧪 HOME LAB
-- Proxmox Server Virtualization
-- Kubernetes Orchestration w/ Rancher
-- Docker (Swarm, Compose, Edge Computing)
-- VPN-Server w/ Wireguarad, openVPN
-- NGINX Reverse Proxy
-- InvoiceNinja
-- Nextcloud
-- Bitwarden
-- NAS (TrueNAS, Synology, OMV)
-- IP Cameras (Intercom, Synology Surveillance Station, Objectdetection)
-- Portainer
-- Unifi WiFi Controller
-
-<br>
-
-# 🏠 SMART HOME
-
-- KNX Bussystem
-- openHAB
-- InfluxDB + Grafana
-- Deconz Zigbee Gateway
-- Node-Red
-- MQTT Broker: Mosquitto
-- Energy SmartMeter
-- Smart Doorbell + Garage opener from remote
-- Ammonia Sensor
-- Ultrasonic Sensor
-- Connected Alarm Clock
-- Smart Breakfast Timer
-- Smart Letterbox
-
-<br>
--->
-
 
 # 📋 DIVERSES
 - Grafikdesign mit Photoshop + Gimp
